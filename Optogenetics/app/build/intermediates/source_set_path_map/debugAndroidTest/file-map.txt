@@ -1,0 +1,5 @@
+com.example.optogenetics.test.app-jetified-core-1.1.0-0 /Users/mo555/.gradle/caches/transforms-3/3cdbf4bcf2726e52e7bb030861611b3d/transformed/jetified-core-1.1.0/res
+com.example.optogenetics.test.app-androidTest-1 /Users/mo555/git/projects/tools/SmartphoneOptogenetics/Optogenetics/app/build/generated/res/resValues/androidTest/debug
+com.example.optogenetics.test.app-mergeDebugAndroidTestResources-2 /Users/mo555/git/projects/tools/SmartphoneOptogenetics/Optogenetics/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.optogenetics.test.app-mergeDebugAndroidTestResources-3 /Users/mo555/git/projects/tools/SmartphoneOptogenetics/Optogenetics/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.optogenetics.test.app-merged_res-4 /Users/mo555/git/projects/tools/SmartphoneOptogenetics/Optogenetics/app/build/intermediates/merged_res/debugAndroidTest

@@ -1,8 +1,5 @@
 package com.example.optogenetics;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.assist.AssistStructure;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.graphics.Point;
@@ -21,9 +18,8 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.Spinner;
-import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import androidx.appcompat.app.AppCompatActivity;
 
 
 //Initial class (first screen)
@@ -473,11 +469,11 @@ public class MainActivity extends AppCompatActivity {
         SeekBar Y_seekBar = (SeekBar) findViewById(R.id.Y_seekBar);
 
         if(TextUtils.isEmpty(height_editText.getText().toString())){
-            height_editText.setText("400");
+            height_editText.setText("1000");
         }
 
         if(TextUtils.isEmpty(width_editText.getText().toString())){
-            width_editText.setText("400");
+            width_editText.setText("1000");
         }
 
         X_editText.setText(Integer.toString(X_seekBar.getMax()/2));

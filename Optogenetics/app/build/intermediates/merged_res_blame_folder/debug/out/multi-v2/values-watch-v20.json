@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.optogenetics.app-mergeDebugResources-6:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/mo555/.gradle/caches/transforms-3/ff56683a43b0ad5dfb1abd22426f5256/transformed/appcompat-1.0.2/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

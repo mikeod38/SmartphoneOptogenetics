@@ -1,0 +1,4 @@
+#Sun Dec 10 22:33:02 EST 2023
+base.0=/Users/mo555/git/projects/tools/SmartphoneOptogenetics/Optogenetics/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

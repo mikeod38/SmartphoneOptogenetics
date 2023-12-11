@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/layout_activity_third_activity.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/layout/activity_third_activity.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/layout_activity_final_activity.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/layout/activity_final_activity.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable_border.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/layout_activity_second_activity.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/layout/activity_second_activity.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/layout_spinner.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/layout/spinner.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable_button.xml.flat",
+        "source": "com.example.optogenetics.app-main-10:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.optogenetics.app-main-10:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.optogenetics.app-merged_res-8:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.optogenetics.app-pngs-4:/drawable-xxxhdpi/ic_launcher_background.png"
+    }
+]
